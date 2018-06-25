@@ -12,7 +12,7 @@ background-color: white;
 }
 body {
 background-color: white;
-color: #F45556
+color: #111111
 font-family: 'Press Start 2P';
 margin-left: auto;
 margin-right: auto;
@@ -45,7 +45,7 @@ background-color: #BA99C0;
 }
 nav ul {
 list-style-type: none;
-background-color: #;
+background-color: #FAFBFB;
 border: 4px solid #111111;
 border-radius: 10px;
 font-family: 'Press Start 2P';
